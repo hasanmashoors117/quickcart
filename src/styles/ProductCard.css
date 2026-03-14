@@ -74,3 +74,20 @@
   border-radius: 20px;
   font-weight: 500;
 }
+
+.add-to-cart-btn {
+  margin-top: 15px;
+  padding: 12px;
+  background-color: #667eea;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.add-to-cart-btn:hover {
+  background-color: #5a67d8;
+}
